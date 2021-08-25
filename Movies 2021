@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+                <head>
+                                <title>My movies in 2021</title>
+                </head>
+                <body>
+                                <p align="center"><b>The list of movies I've seen in 2021</b></p>
+                                <ol>
+                                                <li>Palm Springs</li>
+                                                <li>Wonder Woman 1984</li>
+                                                <li>The Incredibles</li>
+                                </ol>
+<hr width="200px"/>
+                                <p align="center"><i>The movies I want to see</i></p>
+                                <ul>
+                                                <li>Dune</li>
+                                                <li>Free Guy</li>
+                                                <li>Spider Man</li> <img width="200px" height="300px" align ="center" src="https://wallpaperaccess.com/full/5849980.jpg">
+                                </ul>
+                </body>
+</html>
